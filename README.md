@@ -86,10 +86,12 @@ I am a **Software Engineer at Microsoft** working on reliability and intelligent
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ProgrammerPuneet&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github" alt="Puneet's GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ProgrammerPuneet&hide_border=true&background=0F172A&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Puneet's GitHub streak" />
+![Puneet's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProgrammerPuneet&theme=github_dark)
 
-[![Puneet's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerPuneet&bg_color=0f172a&color=cbd5e1&line=22d3ee&point=f8fafc&area=true&hide_border=true)](https://github.com/ProgrammerPuneet)
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProgrammerPuneet&theme=github_dark" alt="Repositories per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProgrammerPuneet&theme=github_dark" alt="Puneet's GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ProgrammerPuneet&hide_border=true&background=0F172A&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Puneet's GitHub streak" />
 
 </div>
 
